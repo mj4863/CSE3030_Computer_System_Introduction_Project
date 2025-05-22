@@ -98,4 +98,3 @@ python3 check.py
 
 ---
 
-**끝**
